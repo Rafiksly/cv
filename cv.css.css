@@ -1,0 +1,65 @@
+
+h1 {    color:rgba(231, 101, 49, 0.986);
+      font-style: italic;
+      text-align: center;
+      background-size: contain;
+      transform: scale(1);
+
+
+
+
+}
+
+h3 {  text-align: center;
+
+
+}
+
+ 
+
+
+
+
+li { text-align: center;
+      
+
+}
+
+
+
+
+
+  
+
+
+
+
+
+
+h3{     color:white;
+      font-style: italic;  
+      background-color: rgba(231, 100, 52, 0.897)  
+
+
+ }
+
+ li {color: white;
+
+}
+.li{
+      position: relative;
+      left: 46%;
+      filter: brightness(1.1)contrast(1.2)saturate(1.5);
+      border: 5px solid;
+      border-radius: 10px;
+      box-shadow: 5px 5px 15px rgba(0, 0,0, 0,3);
+      transform: scale(1.05);
+} 
+
+html { background-image: url(https://www.fond-ecran-hd.net/Public/uploads/2022-04-28/thumbs-1/paysagedysertdunecoucherdesoleilartdigital.jpg)
+      
+;
+background-size: cover;
+
+
+}
